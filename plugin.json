@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-openfantasy",
-	"name": "OpenFantasy",
-	"description": "A fully featured RPG (Role Playing Game) plugin for NodeBB",
-	"url": "https://github.com/psychobunny/nodebb-plugin-openfantasy",
+	"id": "nodebb-plugin-tuchanloan",
+	"name": "Tu Chân Loạn",
+	"description": "Hệ thống game RPG cho tuchan.loan, dựa trên plugin OpenFantasy",
+	"url": "https://github.com/hoangdo94/nodebb-plugin-tuchanloan",
 	"library": "./openfantasy.js",
 	"hooks": [
 		{
